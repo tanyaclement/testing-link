@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "39556218-d028-43ee-9555-afcec2241f6a": {
+      "label": "testing link",
+      "is_offline": false,
+      "file_url": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/73239f5c-c688-4368-8a9a-7d0a777c3e93/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=73239f5c-c688-4368-8a9a-7d0a777c3e93&feed=EmVW7VGp",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "testing link",
+  "created_at": "2025-01-21T21:49:03.421Z",
+  "created_by": "tanyaclement",
+  "updated_at": "2025-01-21T21:49:03.421Z",
+  "updated_by": "tanyaclement"
+}

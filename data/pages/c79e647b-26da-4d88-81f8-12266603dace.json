@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-01-21T21:49:03.575Z",
+  "created_by": "tanyaclement",
+  "title": "testing link",
+  "slug": "testing-link",
+  "updated_at": "2025-01-21T21:49:03.576Z",
+  "updated_by": "tanyaclement",
+  "parent": "fe2a78ae-8ad8-4406-96ad-e30c148cc18c",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "52db0991-3444-42e5-9b9d-8b33adf25540"
+  }
+}
